@@ -4,7 +4,17 @@
       "url": "medeia",
       "title": "Medeia, Imperatriz do Império Médio",
       "type": "god",
-      "search_words": ["medeia"]
+      "search_words": [
+        "medeia"
+      ]
+    },
+    {
+      "url": "corrupcao",
+      "title": "Corrupção",
+      "type": "god",
+      "search_words": [
+        "corrupcao"
+      ]
     }
   ]
 }
